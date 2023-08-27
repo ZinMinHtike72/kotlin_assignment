@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="ToolbarColoredBackArrow" parent="AppTheme">
+    <item name="android:textColorSecondary">INSERT_COLOR_HERE</item>
+</style>
